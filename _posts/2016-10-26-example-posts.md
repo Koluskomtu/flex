@@ -1,16 +1,19 @@
 ---
 layout: post
-title: 3dRecords
-cover: cover.jpg
+title: The Grass Couch
+cover: grasscouch.png
 date:   2016-10-26 12:00:00
 categories: posts
 ---
 
-## 3d Records in Engine. Why should you Care?
+## A grass couch build this past summer with artist Shuan Dee O'Rourkee
 
-This article is in progress, [The Development](http://thedevelopment.co). is in Unreal Engine 
-or potentially CryEngine. 
+Always wanted to build a grass couch since my beginnings almost 20 years
+ago in the field of horticulture. This past summer, I was given the opportunity
+by Harlem artist Shaun Dee O'Rourkee to build a garden install on his 
+property in Maine. 
 
+Article will be continued. Simply setting up the blog pages. Stay tuned. 
 
 
 ## Open Sourced on GitHub
