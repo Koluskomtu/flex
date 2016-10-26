@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example
+title: 3dRecords
 cover: cover.jpg
 date:   2016-10-26 12:00:00
 categories: posts
