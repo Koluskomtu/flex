@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thelonius
-cover: cover.jpg
+cover: Thelonius.png
 date:   2016-10-26 4:00:00
 categories: posts
 ---
