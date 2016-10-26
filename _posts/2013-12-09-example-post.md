@@ -6,10 +6,15 @@ date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## 3d Records in Engine. Why should you Care?
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+This article is in progress, [The Development](http://thedevelopment.co). is in Unreal Engine 
+or potentially CryEngine. 
+
+
 
 ## Open Sourced on GitHub
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+Flex is open sourced on GitHub 
+and is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+ Feel free to contribute to it anytime!
