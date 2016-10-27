@@ -6,12 +6,12 @@ date:   2016-10-26 4:00:00
 categories: posts
 ---
 
-## Thelonius
-
-This post is centered around my latest audio work. It is still in the songwriting stage both 
-for live performance and final recording. I will share a soundcloud embedded player so listeners
-can follow along on its progression. 
+## My current audio project
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287602763&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+I primarily use Soundcloud as an audio reference and to hopefully get constructive feedback as to the EQ of a particular track. Now that this blog is fully operational, I am seeing my use of Soundcloud has been squandered and could provide a forum for listeners to follow my audio projects as they get more professionally produced. As, of right now, I feel they are mediocre even certain songs that I find well done. 
+
+# Article is underconstruction 
 
 ## Open Sourced on GitHub
 
