@@ -1,5 +1,7 @@
 name: Flex
-pygments: true
+pygments: 
 baseurl: /flex
 url: http://kolukomtu.github.io
+highlighter: rouge
+
 
