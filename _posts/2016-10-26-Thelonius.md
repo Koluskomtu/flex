@@ -4,9 +4,8 @@ title: Latest Audio Project
 cover: Thelonius.png
 date:   2016-10-26 4:00:00
 categories: posts
-Author: Johngo
+author: Johngo
 ---
-
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287602763&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
