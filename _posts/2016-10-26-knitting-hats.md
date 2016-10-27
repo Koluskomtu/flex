@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hats
-cover: grasscouch.png
+cover: hats.png
 date:   2016-10-26 12:00:00
 categories: posts
 ---
