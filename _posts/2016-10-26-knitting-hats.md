@@ -14,7 +14,7 @@ the blog for posting content and linking it to my artist profile.
 
 ![Studio 360](https://kolsukomtu.github.io/flex/images/machine.jpg)
 ![thread](https://kolsukomtu.github.io/flex/images/handsew.jpg)
-![Studio 360](https://kolsukomtu.github.iolex/images/studio.jpg)
+![Studio 360](https://kolsukomtu.github.io/flex/images/studio.jpg)
 
 ## Open Sourced on GitHub
 
