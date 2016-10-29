@@ -7,7 +7,7 @@ categories: posts
 ---
 
 ## Machine Made Hats
-https://kolsukomtu.github.io/flex/images/studio.jpg
+
 This article is about using the Studio 360 knitting machine to make hats. 
 I will update and expand at a later time. Right now simply setting up 
 the blog for posting content and linking it to my artist profile. 
