@@ -12,9 +12,9 @@ This article is about using the Studio 360 knitting machine to make hats.
 I will update and expand at a later time. Right now simply setting up 
 the blog for posting content and linking it to my artist profile. 
 
-![Studio 360](https://github.com/Koluskomtu/flex/images/machine.jpg)
-![thread](https://github.com/Koluskomtu/flex/images/handsew.jpg)
-![Studio 360](https://github.com/Koluskomtu/flex/images/studio.jpg)
+![Studio 360](https://kolsukomtu.github.io/flex/images/machine.jpg)
+![thread](https://kolsukomtu.github.io/flex/images/handsew.jpg)
+![Studio 360](https://kolsukomtu.github.iolex/images/studio.jpg)
 
 ## Open Sourced on GitHub
 
