@@ -13,7 +13,7 @@ I will update and expand at a later time. Right now simply setting up
 the blog for posting content and linking it to my artist profile. 
 
 ![Studio 360](/images/machine.jpg)
-![thread](/images/handsew.jpg)
+![thread](/flex/images/handsew.jpg)
 ![Studio 360](/images/studio.jpg)
 
 ## Open Sourced on GitHub
