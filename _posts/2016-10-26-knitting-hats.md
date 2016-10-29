@@ -6,10 +6,7 @@ date:   2016-10-26 12:00:00
 categories: posts
 ---
 
-
-This article is about using the Studio 360 knitting machine to make hats. 
-I will update and expand at a later time. Right now simply setting up 
-the blog for posting content and linking it to my artist profile. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 ![KnittedHat](/flex/images/hatshallow.jpg) 
 ![Studio 360](/flex/images/machine.jpg) 
 ![thread](/flex/images/handsew.jpg) 
