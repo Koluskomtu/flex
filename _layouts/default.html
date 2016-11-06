@@ -46,6 +46,13 @@
           </span>
         </div>
       </div>
+      {% for audio in site.data.audio-types %}
+
+    <a href="{{ site.baseurl }}/audio/{{audio.folder}}/">{{audio.title}}</a>
+    {{audio.content | markdownify }}
+ 
+  {{% endfor %}}
+
 
         {{ content }}
 
