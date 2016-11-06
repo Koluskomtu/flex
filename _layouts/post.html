@@ -2,3 +2,12 @@
 layout: default
 ---
 {% include post.html %}
+<ol>
+{% for audio in site.data.audio-types %}
+  <li>
+    <a href="{{ site.baseurl }}/audio/{{audio.folder}}/">{{audio.title}}</a>
+    {{audio.content | markdownify }}
+  </li>
+  {{% endfor %}}
+</ol>
+
