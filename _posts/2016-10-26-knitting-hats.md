@@ -14,17 +14,18 @@ and a visit it Iceland for a music festival (Airwaves) in 2015. After speaking w
 client this spring while working for Black Birch Landscaping Co, about the Icelandic
 sweater I was knitting, she mentioned I could have her knitting machines, yes plural,
 because she was moving and hadn't used them in years. 
-
+{:center: style="text-align: center"}
 And so, many mistakes and setup issues like replacing the sponge bar stalled the process of creating
 a swatch which is pivotal to determining the outcome of a project whether it be a hat, blanket
 or whatever. My latest hat is two color:
 ![Striped](/flex/images/stiped hat 2.jpg)  
 ![hat](/flex/images/stripehat.jpg)
+{:center: style="text-align: center"}
 It is my only two color hat and is actually designed to fold back almost like a smurf or rasta 
 hat. Because it turned out too tight, I reinforced the seam in the back and folded the extra length of
 the hat back. It has since slackened a bit and I've grown fond of it. A minor repair in the back top part
 is needed, but nothing a few minutes of sewing can't fix. 
-
+{:center: style="text-align: center"}
 The top picture are hats made following YouTube instruction videos by Roberta Rose Kelley on her bulky 
 machine. I am experimenting every time I begin a hat with yarn types and often resort back to 2 ply cotton
 yarn simply because it works best with the machine I use, the Studio 360. 
