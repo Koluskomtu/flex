@@ -17,8 +17,7 @@ because she was moving and hadn't used them in years.
 And so, many mistakes and setup issues like replacing the sponge bar stalled the process of creating
 a swatch which is pivotal to determining the outcome of your project whether it be a hat, blanket
 or whatever. My latest hat is two color:
-![Striped](/flex/images/stiped hat 2.jpg) 
-![hat](/flex/images/stripehat.jpg)
+![Striped](/flex/images/stiped hat 2.jpg)  ![hat](/flex/images/stripehat.jpg)
 It is my only two color hat and is actually designed to fold back almost like a smurf or rasta 
 hat. Because it turned out too tight, I reinforced the seam in the back and folded the extra length of
 the hat back. It has since slackened a bit and I've grown fond of it. A minor repair in the back top part
