@@ -5,8 +5,8 @@ cover: 3hat.jpg
 date:   2016-10-26 12:00:00
 categories: posts
 ---
-![Studio 360](/flex/images/machine.jpg) 
-{:.center: style="float: right;"}
+<img style="float: right;" src="/flex/images/machine.jpg">
+{:center: style="text-align: center"}
 Creating machine made hats was not my initial intention when I first looked into
 knitting about a year or so ago. I was interested in starting knitting almost a decade
 prior, however, procrastinated and never got rolling with it until after heart surgery
@@ -14,7 +14,7 @@ and a visit it Iceland for a music festival (Airwaves) in 2015. After speaking w
 client this spring while working for Black Birch Landscaping Co, about the Icelandic
 sweater I was knitting, she mentioned I could have her knitting machines, yes plural,
 because she was moving and hadn't used them in years. 
-{:center: style="text-align: center"}
+
 And so, many mistakes and setup issues like replacing the sponge bar stalled the process of creating
 a swatch which is pivotal to determining the outcome of a project whether it be a hat, blanket
 or whatever. My latest hat is two color:
