@@ -15,7 +15,7 @@ sweater I was knitting, she mentioned I could have her knitting machines, yes pl
 because she was moving and hadn't used them in years. 
 
 And so, many mistakes and setup issues like replacing the sponge bar stalled the process of creating
-a swatch which is pivotal to determining the outcome of your project whether it be a hat, blanket
+a swatch which is pivotal to determining the outcome of a project whether it be a hat, blanket
 or whatever. My latest hat is two color:
 ![Striped](/flex/images/stiped hat 2.jpg)  ![hat](/flex/images/stripehat.jpg)
 It is my only two color hat and is actually designed to fold back almost like a smurf or rasta 
