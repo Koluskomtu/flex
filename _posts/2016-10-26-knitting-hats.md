@@ -6,6 +6,7 @@ date:   2016-10-26 12:00:00
 categories: posts
 ---
 ![Studio 360](/flex/images/machine.jpg) 
+{:center: style="text-align: center"}
 Creating machine made hats was not my initial intention when I first looked into
 knitting about a year or so ago. I was interested in starting knitting almost a decade
 prior, however, procrastinated and never got rolling with it until after heart surgery
