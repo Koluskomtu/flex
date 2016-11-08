@@ -29,10 +29,10 @@ hat. Because it turned out too tight, I reinforced the seam in the back and fold
 the hat back. It has since slackened a bit and I've grown fond of it. A minor repair in the back top part
 is needed, but nothing a few minutes of sewing can't fix. 
 
-The top picture are hats made following YouTube instruction videos by Roberta Rose Kelley on her bulky 
+The top title picture are hats made following YouTube instruction videos by Roberta Rose Kelley on her bulky 
 machine. I am experimenting every time I begin a hat with yarn types and often resort back to 2 ply cotton
 yarn simply because it works best with the machine I use, the Studio 360. 
-<img style="float: right; padding: 8px 3px 0px 7px;" src="/flex/images/stripehat.jpg">
+<img style="float: left; padding: 8px 3px 0px 7px;" src="/flex/images/stripehat.jpg">
 </div>
 
 
