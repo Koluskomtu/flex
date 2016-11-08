@@ -14,11 +14,11 @@ and a visit to Iceland for a music festival (Airwaves) in 2015. After speaking w
 client this spring while working for Black Birch Landscaping Co, about the Icelandic
 sweater I was knitting, she mentioned I could have her knitting machines, yes plural,
 because she was moving and hadn't used them in years. 
-
+<img style="float: left; padding: 8px 3px 0px 7px;" src="/flex/images/stiped hat 2.jpg">
 And so, many mistakes and setup issues like replacing the sponge bar stalled the process of creating
 a swatch which is pivotal to determining the outcome of a project whether it be a hat, blanket
 or whatever. My latest hat is two color:
-![Striped](/flex/images/stiped hat 2.jpg)  
+ 
 ![hat](/flex/images/stripehat.jpg)
 {:center: style="text-align: center"}
 It is my only two color hat and is actually designed to fold back almost like a smurf or rasta 
