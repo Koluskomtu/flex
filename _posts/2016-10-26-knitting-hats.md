@@ -5,7 +5,7 @@ cover: 3hat.jpg
 date:   2016-10-26 12:00:00
 categories: posts
 ---
-<img style="float: right;" margin="10px;" src="/flex/images/machine.jpg">
+<img style="float: right; margin=10px;" src="/flex/images/machine.jpg">
 {:center: style="text-align: center"}
 Creating machine made hats was not my initial intention when I first looked into
 knitting about a year or so ago. I was interested in starting knitting almost a decade
