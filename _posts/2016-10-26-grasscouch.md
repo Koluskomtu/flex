@@ -14,10 +14,3 @@ by Harlem artist Shaun Dee O'Rourkee to build a garden install on his
 property in Maine. 
 
 Article will be continued. Simply setting up the blog pages. Stay tuned. 
-
-
-## Open Sourced on GitHub
-
-Flex is open sourced on GitHub 
-and is licensed under the [MIT License](http://opensource.org/licenses/MIT).
- Feel free to contribute to it anytime!
