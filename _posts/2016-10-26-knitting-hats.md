@@ -18,7 +18,6 @@ sweater I was knitting, she mentioned I could have her knitting machines (yes pl
 because she was moving and hadn't used them in years. \\
 \\
 <img style="float: left; padding: 8px 5px 5px 7px;" src="/flex/images/stiped hat 2.jpg">
-\\
   And so, many mistakes and setup issues later -like replacing the sponge bar stalled the process of creating
 a swatch which is pivotal to determining the outcome of a project whether it be a hat, blanket
 or whatever. My latest hat is a two color with a few errors. Not bad for an intial attempt.\\
