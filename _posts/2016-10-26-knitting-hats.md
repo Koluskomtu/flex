@@ -14,7 +14,7 @@ knitting about a year or so ago. I was interested in starting knitting almost a 
 prior, however, procrastinated and never got rolling with it until after heart surgery
 and a visit to Iceland for a music festival (Airwaves) in 2015. After speaking with a gardening
 client this spring while working for Black Birch Landscaping Co, about the Icelandic
-sweater I was knitting, she mentioned I could have her knitting machines, yes plural,
+sweater I was knitting, she mentioned I could have her knitting machines (yes plural) ,
 because she was moving and hadn't used them in years. \\
 \\
 <img style="float: left; padding: 8px 3px 0px 7px;" src="/flex/images/stiped hat 2.jpg">
