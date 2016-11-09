@@ -20,13 +20,15 @@ because she was moving and hadn't used them in years. \\
   And so, many mistakes and setup issues like replacing the sponge bar stalled the process of creating
 a swatch which is pivotal to determining the outcome of a project whether it be a hat, blanket
 or whatever. My latest hat is two color.\\
+\\
   It is my only two color hat and is actually designed to fold back almost like a smurf or rasta 
 hat. Because it turned out too tight, I reinforced the seam in the back and folded the extra length of
 the hat back. It has since slackened a bit and I've grown fond of it. A minor repair in the back top part
 is needed, but nothing a few minutes of sewing can't fix.\\
+\\
   The top title picture are hats made following YouTube instruction videos by Roberta Rose Kelley on her bulky 
 machine. I am experimenting every time I begin a hat with yarn types and often resort back to 2 ply cotton
-yarn simply because it works best with the machine I use, the Studio 360.\\ 
+yarn simply because it works best with the machine I use, the Studio 360.
 <img style="float: left; padding: 8px 3px 0px 7px;" src="/flex/images/stripehat.jpg">
 
 
