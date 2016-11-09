@@ -51,8 +51,3 @@ machine. I use, the Studio MOD 360. For yarn bigger than 2 ply, it is advised to
 ![thread](/flex/images/handsew.jpg) 
 ![Studio 360](/flex/images/studio.jpg) 
 
-## Open Sourced on GitHub
-
-Flex is open sourced on GitHub 
-and is licensed under the [MIT License](http://opensource.org/licenses/MIT).
- Feel free to contribute to it anytime!
