@@ -16,11 +16,3 @@ And so, Thelonius is a short dub step groove that is influenced by Thelonius Mon
 ## Under construction.
 
 # Article is underconstruction 
-
-## Open Sourced on GitHub
-
-Flex is open sourced on GitHub 
-and is licensed under the [MIT License](http://opensource.org/licenses/MIT).
- Feel free to contribute to it anytime!
-
-
