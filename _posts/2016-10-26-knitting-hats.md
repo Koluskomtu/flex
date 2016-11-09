@@ -29,7 +29,10 @@ the hat back. It has since slackened a bit and I've grown fond of it. A minor re
 is needed, but nothing a few minutes of sewing can't fix.\\
 \\
   The top title picture are hats made following YouTube instruction videos by Roberta Rose Kelley on her bulky 
-machine. I use, the Studio 360.
+machine. I use, the Studio 360.\\
+\\
+\\
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <img style="float: left; padding: 8px 3px 0px 7px;" src="/flex/images/stripehat.jpg">
 
 
