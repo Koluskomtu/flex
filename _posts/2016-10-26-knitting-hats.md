@@ -4,7 +4,7 @@ title: Machine Made Hats
 cover: 3hat.jpg
 date:   2016-10-26 12:00:00
 categories: posts
-comments: true
+
 ---
 
 
