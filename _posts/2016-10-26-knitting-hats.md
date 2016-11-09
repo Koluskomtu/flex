@@ -39,7 +39,7 @@ machine. I use, the Studio MOD 360. For yarn bigger than 2 ply, it is advised to
 
 ![KnittedHat](/flex/images/hatshallow.jpg) 
 
- Part of the problem is a hand sewn hat can take me 5 hours to finish. With bind off and a false ribbing on the green hats the time can be longer. Hourly wise it is not worth it to sell them. I am in the process of aligning myself with a person with a sewing machine. If I make several hats a day and send them along for sewing the cost may be lessened allowing me to sell the hats online or in local shops here in Maine. \\
+ Part of the problem is a hand sewn hat can take me 5 hours to finish. With bind off and a false ribbing on the green hats the time can be longer. Hourly wise it is not worth it to sell them. I am in the process of aligning myself with a person with a sewing machine. If I make several hats a day and send them along for sewing the cost may be lessened allowing me to sell the hats online or in local shops here in Maine. I did inquire at an embroidery shop the price of adding my own logo to a hat and the cost was $5 for each hat. I think, I will not do that and add a logo to a tag with contact and product info.\\
  \\
     The illusion of a hat being a "machine made" product is that the creation is instantaneous and it isn't. It is very difficult to get the tension right and much of the process is starting and stopping to do things manually. To complete a hat without mistakes is actually a rare occurence, for me at least.\\
     \\
