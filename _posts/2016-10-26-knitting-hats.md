@@ -48,6 +48,9 @@ machine. I use, the Studio MOD 360. For yarn bigger than 2 ply, it is advised to
     \\
     (underconstruction) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+Future Project - Kimono on the Studio 360 knitting machine. Here is my board of kimonos pinned on pinterest:
+<a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/johnlafosse/kimono/"></a>
+
 ![thread](/flex/images/handsew.jpg) 
 ![Studio 360](/flex/images/studio.jpg) 
 
