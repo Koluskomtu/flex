@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garden Design
-cover: scammon.jpg
+cover: 
 date:   2017-01-24 12:00:00
 categories: posts
 ---
