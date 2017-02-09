@@ -1,4 +1,4 @@
----
+2---
 layout: post
 title: Garden Design
 cover: grasscouch.png
@@ -11,4 +11,4 @@ categories: posts
 
 Article on Garden Design Services using Rhinoceros 5.0 and Lands. 
 
-![dynascape](/flex/images/74k.jpg) 
+![dynascape](/flex/images/74k2.jpg) 
