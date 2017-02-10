@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garden Design
-cover: grasscouch.png
+cover: kanis8.jpg
 date:   2017-01-24 12:00:00
 categories: posts
 ---
